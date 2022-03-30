@@ -8,6 +8,8 @@
   </h2>
 <a href="hello/showForm">Hello World form</a>
 <br><br>
+<a href="student/showForm">student form</a>
+<br><br>
 <img src="${pageContext.request.contextPath}/resources/images/spring-logo.png"> 
 </body>
 
